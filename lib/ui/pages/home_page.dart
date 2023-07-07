@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:social_media_app/app/configs/colors.dart';
-import 'package:social_media_app/app/configs/theme.dart';
-import 'package:social_media_app/ui/bloc/post_cubit.dart';
-import 'package:social_media_app/ui/widgets/card_post.dart';
-import 'package:social_media_app/ui/widgets/clip_status_bar.dart';
+import 'package:mikem/app/configs/colors.dart';
+import 'package:mikem/app/configs/theme.dart';
+import 'package:mikem/ui/bloc/post_cubit.dart';
+import 'package:mikem/ui/widgets/card_post.dart';
+import 'package:mikem/ui/widgets/clip_status_bar.dart';
 
 import '../widgets/custom_app_bar.dart';
 

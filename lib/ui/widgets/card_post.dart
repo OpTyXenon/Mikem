@@ -2,11 +2,11 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_blurhash/flutter_blurhash.dart';
-import 'package:social_media_app/app/configs/colors.dart';
-import 'package:social_media_app/app/configs/theme.dart';
-import 'package:social_media_app/app/resources/constant/named_routes.dart';
-import 'package:social_media_app/data/post_model.dart';
-import 'package:social_media_app/ui/widgets/custom_bottom_sheet_comments.dart';
+import 'package:mikem/app/configs/colors.dart';
+import 'package:mikem/app/configs/theme.dart';
+import 'package:mikem/app/resources/constant/named_routes.dart';
+import 'package:mikem/data/post_model.dart';
+import 'package:mikem/ui/widgets/custom_bottom_sheet_comments.dart';
 
 import 'clip_status_bar.dart';
 

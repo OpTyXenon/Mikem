@@ -1,6 +1,6 @@
-# Social Media App
+# Mikem
 
-This is a Flutter-based Social Media App with a sleek and modern design.
+<!-- This is a Flutter-based Social Media App with a sleek and modern design.
 
 ![image](https://user-images.githubusercontent.com/67297759/190064136-5f096750-e957-4817-8372-145b537d7a88.png)
 ![image](https://user-images.githubusercontent.com/67297759/190063284-25aac6bf-c869-4925-be56-83117027e207.png)
@@ -19,4 +19,4 @@ To get started, you need to have [Flutter](https://flutter.dev/docs/get-started/
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/rrdhoi/SocialMediaApp/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/rrdhoi/SocialMediaApp/blob/master/LICENSE). -->

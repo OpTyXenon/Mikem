@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:social_media_app/app/configs/theme.dart';
-import 'package:social_media_app/app/resources/constant/named_routes.dart';
-import 'package:social_media_app/ui/pages/home_page.dart';
-import 'package:social_media_app/ui/pages/profile_page.dart';
+import 'package:mikem/app/configs/theme.dart';
+import 'package:mikem/app/resources/constant/named_routes.dart';
+import 'package:mikem/ui/pages/home_page.dart';
+import 'package:mikem/ui/pages/profile_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Social Media App',
+      title: 'Mikem',
       theme: AppTheme.lightTheme,
       debugShowCheckedModeBanner: false,
       onGenerateRoute: (RouteSettings settings) {

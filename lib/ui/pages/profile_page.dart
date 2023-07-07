@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:social_media_app/app/configs/colors.dart';
-import 'package:social_media_app/app/configs/theme.dart';
-import 'package:social_media_app/ui/bloc/gallery_profile_cubit.dart';
+import 'package:mikem/app/configs/colors.dart';
+import 'package:mikem/app/configs/theme.dart';
+import 'package:mikem/ui/bloc/gallery_profile_cubit.dart';
 
 class ProfilePage extends StatelessWidget {
   const ProfilePage({Key? key}) : super(key: key);

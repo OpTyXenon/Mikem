@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:social_media_app/app/configs/colors.dart';
-import 'package:social_media_app/app/configs/theme.dart';
+import 'package:mikem/app/configs/colors.dart';
+import 'package:mikem/app/configs/theme.dart';
 
 void customBottomSheetComments(BuildContext context) => showModalBottomSheet(
       context: context,

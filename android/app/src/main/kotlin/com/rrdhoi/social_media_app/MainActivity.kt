@@ -1,4 +1,4 @@
-package com.rrdhoi.social_media_app
+package com.optyxenon.mikem
 
 import io.flutter.embedding.android.FlutterActivity
 
